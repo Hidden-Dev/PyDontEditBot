@@ -3,9 +3,7 @@
 # How To Install 
 Go To [Bot Father](https://t.me/botfather) And Create A New Bot & Get Bot Token
 
-Write /setprivacy And Disable It
-
-Go To [@UserInfoBoT](https://t.me/userinfobot) And Get Your Id 
+Write /setprivacy And Di it
 
 Set Your Id In Line 20 And Bot Token In Line 21 
 
