@@ -30,7 +30,6 @@ cd PyDontEditBot
 
 nano bot.py
 ```
-Go To Line 20 And Set Your Id
-Go To Line 21 And Set Your Bot 
+Set Your Id In Line 20 And Bot Token In Line 21 
 
 # [Dev](https://t.me/HiddenDev) | [Channel](https://t.me/PG_TM)
