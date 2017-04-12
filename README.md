@@ -1,7 +1,7 @@
 # PyDontEditBot
 [PyDontEditBot](https://t.me/PyDontEditBot) source By [@HiddenDev](https://t.me/HiddenDev)
 # How To Install 
-Go To [Bot Father](https://t.me/botfather) And Create A New Bot & Get Bot Token
+Go To [Bot Father](https://t.me/botfather) And Create A New Bot & Get Bot Token\n
 Write /setprivacy And Disable It
 Go To [@UserInfoBoT](https://t.me/userinfobot) And Get Your Id 
 
